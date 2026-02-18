@@ -11,5 +11,8 @@ Cliente: son las computadoras de los estudiantes.
 La respuesta es: 
 La Dirección IP identifica qué dispositivo dentro de una red (o en Internet) va a recibir o enviar la información. El puerto identifica qué programa o servicio dentro de ese dispositivo debe recibir la información.
 
+:) 
+
+
 
 
